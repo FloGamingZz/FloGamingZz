@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FloGamingZz, I'm 20 years old and I am in the third year of event communication and marketing in esport and gaming.
+- 👋 Hi, I’m @FloGamingZ, I'm 22 years old and I am in the third year of event communication and marketing in esport and gaming.
 - 👀 I'm interested in video games, management and events.
 - 🌱 I'm currently learning to code for fun in order to develop my personal knowledge in IT development. <br> &nbsp; &nbsp; &nbsp; I am learning javascript with node.js and discord.js, discord being the platform I like the most.
 
